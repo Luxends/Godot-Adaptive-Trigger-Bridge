@@ -4,4 +4,5 @@ This project implements a bridge for DualSense Adaptive Triggers, connecting the
 The file `AdaptiveTriggerDemo.gd`(./AdaptiveTriggerDemo.gd) demonstrates a production-ready usage pattern, including **software hysteresis** to filter haptic noise and **state-check optimization** to reduce USB bus traffic.
 
 See the demo script in action GIF below:
+
 ![0130](https://github.com/user-attachments/assets/93c1d3ce-5fa1-4981-8acd-563dfd3f7d36)
